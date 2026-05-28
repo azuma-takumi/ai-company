@@ -1,0 +1,3 @@
+# Claude Code local settings (contains API tokens)
+.claude/settings.json
+.claude/settings.local.json
